@@ -1,3 +1,11 @@
+NON LINEAR DATA STRUCTURE
+TREEE TRAVERSAL 
+
+TRAVERSAL TYPE
+>PREORDER TRAVERSAL
+>POSTORDER TRAVERSAL
+>INORDER TRAVERSAL
+
 problem 1  as traverse.java
 ![problem 1](https://github.com/user-attachments/assets/02985cdc-8aef-448d-a095-68b2d2284ad1)
 
